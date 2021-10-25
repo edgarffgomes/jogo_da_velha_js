@@ -1,0 +1,28 @@
+body{
+	background:	#8B0000;
+	color: white;
+}
+#mostrador{
+	margin: 40px auto 30px auto;
+	width: 252px;
+}
+#mostrador img{
+	padding-bottom: 20px;
+}
+p{
+	float: left;
+	margin-right: 10px;
+}
+.espaco{
+	width: 80px;
+	height: 80px;
+	border: 2px solid white;
+	float: left;
+	text-align: center;
+	padding-top: 10px;
+}
+.tabuleiro{
+	width: 246px;
+	height: 246px;
+	margin: auto;
+}
