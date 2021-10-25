@@ -26,3 +26,14 @@ p{
 	height: 246px;
 	margin: auto;
 }
+.reset{
+	text-align: center;
+}
+.reset button{
+	background: white;
+	color: #8B0000;
+	border-color: white;
+	border-radius: 50px;
+	padding: 3px;
+	margin-top: 15px;
+}
